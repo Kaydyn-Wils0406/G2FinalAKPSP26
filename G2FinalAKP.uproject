@@ -16,6 +16,11 @@
 			"Enabled": true
 		},
 		{
+			"Name": "Landmass",
+			"Enabled": true
+		},
+		{
+			"Name": "PCG",
 			"Name": "WaveformEditor",
 			"Enabled": true
 		}
