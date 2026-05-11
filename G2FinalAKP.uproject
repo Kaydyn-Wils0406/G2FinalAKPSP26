@@ -21,7 +21,10 @@
 		},
 		{
 			"Name": "PCG",
-			"Name": "WaveformEditor",
+			"Enabled": true
+		},
+		{
+			"Name": "MetaHumanCharacter",
 			"Enabled": true
 		}
 	]
